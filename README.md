@@ -1,8 +1,6 @@
 # NTUA ECE Digital VLSI Systems Course
 
-This repository contains the laboratory assignments, digital circuit designs, and project implementations completed during the Digital VLSI Systems course at the National Technical University of Athens (NTUA), School of Electrical and Computer Engineering. 
-
-The coursework covers digital design methodologies ranging from basic combinational and sequential building blocks to pipelined systolic arrays, custom AXI4-Lite IP packaging, and hardware-accelerated image demosaicing on the Xilinx Zynq-7000 SoC (Zybo) platform.
+This repository contains the laboratory assignments, digital circuit designs, and project implementations I completed during the Digital VLSI Systems course at the National Technical University of Athens (NTUA). During this course, I developed practical expertise in digital design methodologies ranging from basic combinational and sequential building blocks to pipelined systolic arrays, custom AXI4-Lite IP packaging, and hardware-accelerated image demosaicing on the Xilinx Zynq-7000 SoC (Zybo) platform.
 
 ## Laboratory Exercises
 
