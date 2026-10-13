@@ -62,8 +62,6 @@ This repository contains the laboratory assignments, digital circuit designs, an
   * **Part C (AXI DMA & System Profiling):** Integrated the accelerator with AXI DMA engines (PS-to-PL transmission and PL-to-PS reception). Developed a C driver in Xilinx SDK to stream raw Bayer image frames, execute the hardware accelerated debayering, and profile execution speed against a pure software C implementation.
 * **Tech Stack:** VHDL, Image Processing / Demosaicing, Block RAM / FIFO IP, AXI DMA, Embedded C (Xilinx SDK).
 
----
-
 ## Technologies & Tools Used
 
 * **Hardware Description Language:** VHDL
